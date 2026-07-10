@@ -4,7 +4,7 @@
 
 #### or 
 
-###s _Activity_Purpose_Expectation_ )
+#### _Activity_Purpose_Expectation_ )
 
 ## Format
 
