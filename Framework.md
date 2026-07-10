@@ -1,4 +1,5 @@
 # A-P-E
+# _Action_Purpose_Expectation_ or _Activity_Purpose_Expectation_
 
 ## Format
 
