@@ -25,7 +25,7 @@
 
 - Describe the [Context]
 - Write your [Action]
-- Provide the [Rules] and Clarify for [Result]
+- Provide the [Rules], [Requirements] and Clarify for [Result]
 - Give the [Example]
 
 # R-T-F
