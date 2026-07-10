@@ -14,6 +14,13 @@
 
 # C-A-R-E
 
+#### ( _Context_Rules_ 
+
+#### and 
+
+#### _Result_Example_ )
+
+
 ## Format
 
 - Describe the [Context]
