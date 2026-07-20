@@ -3,4 +3,13 @@
 2. Use Keywords.
 3. Create Branches ( Topics )
 4. Create Subtopics:
-   4.1. Keypoints.
+   * Keypoints.
+   * Detailed Sentences.
+   * Examples.
+   * Explanations.
+5. Add Visuals:
+     * Diagrams.
+     * Icons ( Simple Images ).
+     * Images.
+6. Use Colors And Symbols.
+7. 
