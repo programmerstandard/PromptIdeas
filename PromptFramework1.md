@@ -21,12 +21,29 @@
 #### _Result_Example_ )
 
 
-## Format
+## Ordinary Format
 
 - Describe the [Context]
 - Write your [Action]
 - Provide the [Rules], [Requirements] and Clarify for [Result]
 - Give the [Example]
+
+### Example 
+
+```lisp
+Analyze this sales dataset and show trends over the past year 
+```
+
+### Example Format 
+
+```lisp
+[Action] [Example] and [Results] [Context]
+```
+
+* Action : Analyze.
+* Example: this sales dataset.
+* Results : show trends.
+* Context : over the past year.
 
 # R-T-F
 
