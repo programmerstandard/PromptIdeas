@@ -12,4 +12,5 @@
      * Icons ( Simple Images ).
      * Images.
 6. Use Colors And Symbols.
-7. 
+7. Keep Organized.
+8. Review & Revise.
