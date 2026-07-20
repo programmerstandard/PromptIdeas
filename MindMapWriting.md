@@ -1,4 +1,4 @@
-## Step Yo Write Mind-Map1
+## Step To Write Mind-Map1
 1. Think and write main topic / idea / goal in the centre.
 2. Use Keywords.
 3. Create Branches ( Topics )
