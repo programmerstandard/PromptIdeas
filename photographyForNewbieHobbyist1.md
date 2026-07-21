@@ -20,3 +20,10 @@ Taken using a wide-angle lens from a high altitude (high-angle selfie), close-up
 * Architecture Photo
 * Action Photo
 
+## Shot, Angles, And Shot Movement 
+
+### Shots:
+
+* Extreme Wide Shot ( EWS )
+* Wide Shot ( WS )
+
