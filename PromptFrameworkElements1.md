@@ -37,7 +37,7 @@ The personas, role, Point of view.
 
 # Task Examples
 
-The action, scenario.
+The action, scenario. adaptable
 
 * Make
 * Compose
