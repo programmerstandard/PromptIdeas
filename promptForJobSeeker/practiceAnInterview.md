@@ -1,5 +1,7 @@
 # Audience Examples
 
+Pretend audience as:
+
 * Head Hunter
 * Career Scout
 * Boss
