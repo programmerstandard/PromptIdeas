@@ -9,7 +9,7 @@ Next to him are several players from [Argentina], such as: [L. Messi] joining th
  
 The background is the side of a soccer field after a match, with several other players and team officials visible in the distance.
  
-Taken using a wide-angle lens from a high altitude (high-angle selfie), close-up selfie composition, clear facial details, natural colors, realistic textures, ultra-realistic photography, HDR, natural field depth, high quality, 4K, premium and aesthetic style, ar 9:16. 
+Taken using a [Angles] from a [Rules Of Third + Shots], close-up selfie composition, clear facial details, natural colors, realistic textures, ultra-realistic photography, HDR, natural field depth, high quality, 4K, premium and aesthetic style, ar 9:16. 
 ```
 
 ## Rules Of Third Several Samples
@@ -26,4 +26,15 @@ Taken using a wide-angle lens from a high altitude (high-angle selfie), close-up
 
 * Extreme Wide Shot ( EWS )
 * Wide Shot ( WS )
+
+### Angles:
+
+* High Angle Lens.
+* Eye Level Angle Lens.
+
+### Shot Movement:
+
+* Static ( No Movement ).
+* Pan ( Left To Right Movement ).
+* Tilt.
 
