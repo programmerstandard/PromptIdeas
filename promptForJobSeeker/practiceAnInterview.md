@@ -10,4 +10,4 @@
 # Requirement Examples
 
 * Provide a [Job Titles]
-* Provide the [Job]
+* Provide the [Job Description]
