@@ -1,12 +1,12 @@
 
 ## Role And Character Examples
-### Person's Values
+### 1. Person's Values
 * **Growth & Learning:** Curiosity, Wisdom, Mastery, Creativity, Open-mindedness
 * **Character & Integrity:** Honesty, Authenticity, Courage, Responsibility, Fairness
 * **Connection & Others:** Compassion, Family, Loyalty, Kindness, Teamwork
 * **Freedom & Lifestyle:** Independence, Adventure, Flexibility, Health, Balance
 * **Achievement & Impact:** Ambition, Leadership, Contribution, Excellence, Influence
-### Person Attitudes
+### 2. Person Attitudes
 #### **Positive / Constructive Attitudes**
 * **Optimistic:** Expecting favorable outcomes.
 * **Resilient:** Bouncing back quickly from setbacks.
@@ -40,5 +40,38 @@
 * **Insecure:** Lacking confidence; uncertain or anxious about oneself.
 * **Self-aware:** Conscious of one’s own character, feelings, and impact on others.
 * **Egotistical:** Excessively conceited or absorbed in oneself.
-### Person Intentions
-### Person Actions
+### 4. Person Intentions
+## Common Types of Human Intentions
+
+| Category | Examples |
+|----------|----------|
+| **Self-Improvement** | Grow personally, learn something new, get healthier |
+| **Social Connection** | Connect with others, make friends, strengthen relationships |
+| **Contribution** | Help someone, give back, make a difference |
+| **Achievement** | Succeed at a task, meet a goal, gain recognition |
+| **Protection** | Stay safe, avoid harm, guard oneself from risk |
+| **Enjoyment** | Have fun, experience joy, relax |
+| **Control** | Influence an outcome, maintain order, have autonomy |
+### 5. Person Actions
+
+Categories of Common Human Actions
+
+### **Physical Actions**
+- Exercising, sleeping, eating, traveling, working
+- Caring for body (medical care, hygiene, rest)
+
+### **Mental Actions**
+- Learning, reflecting, planning, decision-making
+- Problem-solving, creativity, mindfulness
+
+### **Social Actions**
+- Communicating, listening, helping, collaborating
+- Setting boundaries, apologizing, forgiving
+
+### **Emotional Actions**
+- Expressing feelings, regulating emotions, showing empathy
+- Processing grief, celebrating joy, managing stress
+
+### **Ethical Actions**
+- Being honest, standing up for others, keeping promises
+- Doing the right thing even when no one watches
