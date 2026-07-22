@@ -11,12 +11,12 @@ A beautiful young [Country1] [Gender1] wearing a [Costume] says with an innocent
 An [Country2] [Gender2] replies with a cheerful smile:
 "[Sentences 2]"
 
-(Seconds 4–6)
+(Seconds Number4–Number5)
 As [Gender2] reaches for the [Item], the [Gender1] quickly pulls the bag away and says with a playful grin:
 [Country1] [Gender1]:
 "[Sentences 3]"
 
-(Seconds 6–8)
+(Seconds Number6–Number7)
 [Gender2] freezes, then laughs and shakes his head
 [Gender2]:
 "[Sentences 4]"
