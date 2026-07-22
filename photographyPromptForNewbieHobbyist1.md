@@ -1,4 +1,6 @@
-# PromptFramework1
+# Photography Prompt For Newbie And Hobbyist
+
+## Photography Prompt Sample 1
 
 ```algol
 A [Rules Of Third] photo of a man taking a photo with the players of the Argentina national team 
