@@ -3,11 +3,11 @@
 ## Photography Prompt Sample 1
 
 ```algol
-A [Rules Of Third] photo of a man taking a photo with the players of the Argentina national team 
-The man (uses the attached photo completely identical without facial or physical changes) is in the foreground holding the camera with an arm extended, wearing a Peru national team jersey, jeans and a smartwatch.
+A [Rules Of Third] photo of a man taking a photo with the players of the [Country1] national team 
+The man (uses the attached photo completely identical without facial or physical changes) is in the foreground holding the camera with an arm extended, wearing a [Country2] national team jersey, jeans and a smartwatch.
 Position slightly [Shot Movement], smiling expression while making a 👍 gesture.
  
-Next to him are several players from [Argentina], such as: [L. Messi] joining the photo with the man, with expressions and poses at random but natural.
+Next to him are several players from [Country1], such as: [Soccer player name] joining the photo with the man, with expressions and poses at random but natural.
  
 The background is the side of a soccer field after a match, with several other players and team officials visible in the distance.
  
