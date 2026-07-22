@@ -1,6 +1,6 @@
 # Photography Prompt For Newbie And Hobbyist 2
 
-## Subject Of Photo Samples
+## Subject Of Photo Examples
 
 * Lifestyle Focus Photos
   * Event Photography
@@ -42,7 +42,7 @@
   * Real Estate Photography.
   * Aerial Photography.
 
-## Poses
+## Poses Examples
 
 * Standing
 * Sitting
