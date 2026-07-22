@@ -1,4 +1,4 @@
-# Photography Prompt For Newbie And Hobbyist
+# Photography Prompt For Newbie And Hobbyist 1
 
 ## Photography Prompt Sample 1
 
