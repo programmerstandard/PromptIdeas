@@ -28,4 +28,4 @@
 
 ### Notes
 
-* Technology, Input and Validation above is only for samples.
+* Technology, User, Input and Validation above is only for samples.
