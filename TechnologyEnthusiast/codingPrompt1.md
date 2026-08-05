@@ -1,10 +1,18 @@
 # Computer Coding Prompt
 
-## Write a [technology] program
+## Write a [Technology] program
 
 * C
 * Python
 * Website
+
+## For [User]
+
+* Financial Company
+* Health Care Company
+* Online Store
+* Culinary Company
+* Hospital
 
 ## Input
 
@@ -17,3 +25,7 @@
 
 * validate the quantity of input
 * validate the number
+
+### Notes
+
+* Technology, Input and Validation above is only for samples.
